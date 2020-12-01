@@ -10,4 +10,4 @@ Dentre os materiais que você poderá encontrar estão os seguintes itens:
 - Exemplos de jogos publicados
 - Tutoriais sobre modelagem, arte, programação e muito mais.
 
-#consulte a wiki para verificar como os arquivos estão organizados
+# Consulte a wiki para verificar como os arquivos estão organizados
