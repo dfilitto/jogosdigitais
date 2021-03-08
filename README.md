@@ -9,5 +9,10 @@ Dentre os materiais que você poderá encontrar estão os seguintes itens:
 - Exemplos de Game Design Documents
 - Exemplos de jogos publicados
 - Tutoriais sobre modelagem, arte, programação e muito mais.
+- Várias outras coisas.
 
-# Consulte a wiki para verificar como os arquivos estão organizados
+## Como o conteúdo esta organizado
+Os arquivos do repositório estão organizados por UC's (Unidades curriculares) na qual cada uma dela possui uma temática central e, a partir dela, diversos conhecimentos e saberes são integrados.
+
+## importante
+A Wiki do projeto esta recheada de conteúdos voltados para auxiliar o desenvolvedor de jogos, além de explicar como os itens presentes no repositório estão organizados e quais são as finalidades dos mesmos.
