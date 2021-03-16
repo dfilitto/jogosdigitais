@@ -1,0 +1,16 @@
+Os arquivos de cada UC estão organizados da seguinte maneira:
+
+Atividades: Exercícios de fixação.
+Materiais de estudos: Livros, apostilas, apresentações, tutoriais.
+Ferramentas: Softwares utilizados para desenvolver atividades relacionadas com a UC.
+Código Fonte: Exemplo de projetos prontos.
+Atividades: Exercícios de fixação
+Aqui você encontrará materiais focados em exercícos. Você poderá encontrar desde arquivos que orientam o proficional no processo de aplicar um exercício em sala como também listas de exercícios que podem ser aplicadas em sala junto ao aluno.
+
+Materiais de estudos: Livros, apostilas, apresentações, tutoriais.
+Na seção materiais de estuvo você encontrará livros, apostilas, apresentações em Power Point, etc. Todo tipo de material que forneça formas de aprender algo relacionado a UC.
+
+Ferramentas: Softwares utilizados para desenvolver atividades relacionadas com a UC.
+Nesta seção você encontrará softwares que podem ser feito o download para auxiliar na execução das atividades presentes na UC.
+
+Código Fonte: Exemplo de projetos prontos.
