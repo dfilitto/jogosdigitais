@@ -11,8 +11,8 @@ Dentre os materiais que você poderá encontrar estão os seguintes itens:
 - Tutoriais sobre modelagem, arte, programação e muito mais.
 - Várias outras coisas.
 
-## Como o conteúdo esta organizado
+## Como o conteúdo está organizado
 Os arquivos do repositório estão organizados por UC's (Unidades curriculares) na qual cada uma dela possui uma temática central e, a partir dela, diversos conhecimentos e saberes são integrados.
 
-## importante
+## Importante
 A Wiki do projeto esta recheada de conteúdos voltados para auxiliar o desenvolvedor de jogos, além de explicar como os itens presentes no repositório estão organizados e quais são as finalidades dos mesmos.
