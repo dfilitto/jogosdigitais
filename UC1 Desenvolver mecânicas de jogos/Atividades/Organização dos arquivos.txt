@@ -1,4 +1,4 @@
-Os arquivos de cada UC estão organizados da seguinte maneira:
+Os arquivos de cada UC estão organizados da seguinte forma:
 
 Atividades: Exercícios de fixação.
 Materiais de estudos: Livros, apostilas, apresentações, tutoriais.
